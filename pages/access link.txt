@@ -1,0 +1,22 @@
+git clone -b 'develop' https://gitlab.com/manifestandcompany/demo-app.git
+ubuntu:~/environment/OmololaAderibigbe/Demoapp $ cd demo-app
+ubuntu:~/environment/OmololaAderibigbe/Demoapp/demo-app (develop) $ git checkout -b omololaaderibigbe develop
+Switched to a new branch 'omololaaderibigbe'
+ubuntu:~/environment/OmololaAderibigbe/Demoapp/demo-app (omololaaderibigbe) $ npm install
+ubuntu:~/environment/OmololaAderibiubuntu:~/environment/OmololaAderibiemoapp/de
+mo-app (omololaaderibigbe) $ npm start
+^Cubuntu:~/environment/OmololaAderigbe/Demoapp/de
+mo-app (omololaaderibigbe) $ git add .
+ubuntu:~/environment/OmololaAderibigbe/Demoapp/de
+mo-app (omololaaderibigbe) $ git commit -m “Made change
+s to index.js”
+be) $ :~/environment/OmololaAderibiubuntu:~/environment/OmololaAderibigbe/Demoapp/de
+mo-app (omololaaderibigbe) $ ^C
+ubuntu:~/environment/OmololaAderibigbe/Demoapp/de
+mo-app (omololaaderibigbe) $ npm start
+git add .
+git commit -m "Made changes to index.js”
+git push origin omololaaderibigbe
+yuWnuPPeQMu4ni2Wsco6 - GitLab Access Token
+sudo snap install --classic heroku
+heroku apps:rename babatopecool --app pure-brook-59022
